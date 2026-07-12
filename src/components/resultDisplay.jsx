@@ -12,3 +12,4 @@ function ResultDisplay({ result, isPrice }) {
 }
 
 export default ResultDisplay;
+//this is the test
