@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import ResultDisplay from "./ResultDisplay";
+import ResultDisplay from "./resultDisplay";
 
 function CalculatorForm() {
   // Mode toggle: 'amountToQty' (Price -> Weight) or 'qtyToAmount' (Weight -> Price)
